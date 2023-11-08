@@ -1,4 +1,7 @@
 # hello-world
 it's my first repository
 
-I am khu ee student
+hello world repository
+
+I'm khu ee student.
+
